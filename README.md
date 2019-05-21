@@ -19,7 +19,7 @@ You will learn how to create compositions of functional code, handle impurities 
 To fully benefit from the coverage included in this course, you will need:<br/>
 This course was designed for intermediate JavaScript developers who have recently begun their journey into functional programming. It expects that you understand what a pure function is, how to curry functions and use higher-order function maps, filter, and reduce. Developers should have a GitHub account. An understanding of basic JSX is beneficial
 ### Technical Requirements
-This course has the following software requirements:<br/>
+
 4GB RAM<br/>
 500GB Hard-disk storage<br/>
 
